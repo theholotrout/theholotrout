@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Holotrout_iOS_App">
+   </FileRef>
+   <FileRef
+      location = "group:iPhone_App/Holotrout-iOS -iPhone-App.pxproj.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:iPhone_App/Documents - Will&apos;s MacBook Air/GitHub/Holotrout/Holotrout.xcodeproj.zip">
+   </FileRef>
+   <FileRef
+      location = "group:iPhone_App">
+   </FileRef>
+</Workspace>

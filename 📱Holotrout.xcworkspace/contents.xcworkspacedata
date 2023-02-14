@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../CloudStorage/OneDrive-Personal/Mobile-iOS-Buy/LICENSE">
+   </FileRef>
+   <FileRef
+      location = "group:../CloudStorage/OneDrive-Personal/Mobile-iOS-Buy/README.md">
+   </FileRef>
+   <FileRef
+      location = "group:../Developer/Xcode/DerivedData/Holotrout-bljupbgvxxvjwwayhhubmmuyoqho/Build/Products/Debug-iphonesimulator/Holotrout.app">
+   </FileRef>
+   <FileRef
+      location = "group:../CloudStorage/OneDrive-Personal/Mobile-iOS-Buy/Holotrout_XCode.pages">
+   </FileRef>
+   <FileRef
+      location = "group:../Mobile Documents/com~apple~CloudDocs/iPhone_App/Holotrout_iOS_App/Sources/Holotrout_iOS_App/Holotrout_iOS_App.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../Mobile Documents/com~apple~CloudDocs/iPhone_App/codye.html">
+   </FileRef>
+   <FileRef
+      location = "group:../CloudStorage/OneDrive-Personal/Empire Store Theme Code/assets/empire.js.liquid">
+   </FileRef>
+   <FileRef
+      location = "group:../Mobile Documents/com~apple~CloudDocs/iPhone_App/Holotrout_App.pkg">
+   </FileRef>
+   <FileRef
+      location = "group:../Mobile Documents/com~apple~CloudDocs/iPhone_App/AppIcon 1.appiconset/iOS-16-Production-Templates-Sketch">
+   </FileRef>
+</Workspace>
